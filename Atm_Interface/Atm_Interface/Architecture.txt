@@ -1,0 +1,21 @@
+Introduction:
+The purpose of this architecture document is to provide an overview of the design for an ATM console based app built using core Java. This document outlines the system architecture, technologies used, and the key components of the system.
+
+System Architecture:
+The ATM console app is designed as console based application, where the client runs on the ATM console. The client communicates with Atm to perform various operations like balance inquiry, cash withdrawal, etc. It is responsible for managing user accounts, transaction logs, and other related operations.
+
+Technologies Used:
+The following technologies are used in the development of the ATM console app:
+
+Core Java - The application is built using core Java, which is a widely used programming language for developing enterprise-level applications.
+
+Key Components:
+The following are the key components of the ATM console app:
+
+Login  - This module is responsible for authenticating the user by verifying the user's credentials with the database.
+Balance Inquiry  - This module allows the user to view the current balance of their account.
+Cash Withdrawal  - This module allows the user to withdraw cash from their account.
+Transaction - This module is responsible for logging all the transactions performed by the user.
+
+Conclusion:
+The ATM console app is designed to provide a user-friendly interface for users to perform various banking transactions. The app is built using core Java . Overall, the architecture is designed to be scalable, secure, and efficient.

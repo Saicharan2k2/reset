@@ -1,0 +1,20 @@
+Introduction:
+The purpose of this wireframe document is to provide an overview of the design for the ATM console-based app built using core Java. This document outlines the graphical user interface (GUI) for the application and the various screens that will be used in the application.
+
+Login Screen:
+The login screen is the first screen that the user sees when they start the application. It will have two text fields for the user to enter their username and password. There will also be a login button that the user can click to log in to their account.
+
+Main Menu Screen:
+After the user logs in, they will be taken to the main menu screen. This screen will display a list of options that the user can select from. The options will include balance inquiry, cash withdrawal, and exit. The user can select the option they want by using the arrow keys on the ATM console.
+
+Balance Inquiry Screen:
+When the user selects the balance inquiry option from the main menu, they will be taken to the balance inquiry screen. This screen will display the user's current balance. There will also be an option for the user to return to the main menu.
+
+Cash Withdrawal Screen:
+When the user selects the cash withdrawal option from the main menu, they will be taken to the cash withdrawal screen. This screen will display a list of withdrawal amounts that the user can select from. The user can select the amount they want by using the arrow keys on the ATM console. There will also be an option for the user to enter a custom withdrawal amount. After the user selects the withdrawal amount, they will be asked to confirm the transaction. If the user confirms the transaction, the cash will be dispensed, and the user's account balance will be updated.
+
+Exit Screen:
+When the user selects the exit option from the main menu, they will be taken to the exit screen. This screen will display a message thanking the user for using the application. There will also be an option for the user to end the session and return the ATM card.
+
+Conclusion:
+The wireframe document provides a visual representation of the various screens that will be used in the ATM console-based app built using core Java. The GUI is designed to be user-friendly and easy to navigate. The screens are designed to be simple and straightforward, with clear instructions for the user. Overall, the wireframe document is an essential component of the design process, helping to ensure that the application meets the needs of its users.

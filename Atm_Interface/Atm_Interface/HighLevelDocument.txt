@@ -1,0 +1,26 @@
+Introduction:
+
+This high-level document provides an overview of an ATM console based app built using Core Java. The app is designed to simulate the functionality of an ATM machine, allowing users to withdraw cash, deposit cash, transfer funds, and view their account balance.
+
+Design and Architecture:
+
+The app is designed using the Core Java programming language.
+
+Features:
+
+The ATM console based app provides the following features:
+
+User Authentication: The app requires users to enter their credentials to log in, ensuring that only authorized users can access their accounts.
+
+Withdrawal: Users can withdraw cash from their account by selecting the amount they want to withdraw and confirming the transaction.
+
+Deposit: Users can deposit cash into their account by selecting the amount they want to deposit and entering the cash into the machine.
+
+Transfer Funds: Users can transfer funds between their accounts or to other accounts by entering the recipient's account details and confirming the transaction.
+
+Account Balance: Users can view their account balance at any time by selecting the "Balance" option from the main menu.
+
+Conclusion:
+
+The ATM console based app built using Core Java provides a reliable and secure way for users to access their accounts and perform transactions. 
+The app's robust architecture and feature-rich design make it a valuable tool for banks and financial institutions looking to provide their customers with a convenient and intuitive banking experience.

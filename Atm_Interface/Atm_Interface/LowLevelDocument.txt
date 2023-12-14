@@ -1,0 +1,51 @@
+Introduction:
+An ATM console based app built using Core Java
+
+Software Architecture:
+In this application, classes and methods are used effectively by creating objects to each class.
+Data Structures like ArrayList is used to store data of  customers like thier id and pin 
+
+Architecture Description :
+
+MainMenuView: This class displays the main menu screen and allows the user to select the desired transaction type.
+
+WithdrawView: This class displays the withdrawal screen and allows the user to select the withdrawal amount.
+
+DepositView: This class displays the deposit screen and allows the user to enter the deposit amount.
+
+TransferView: This class displays the transfer screen and allows the user to enter the recipient's account details and transfer amount.
+
+BalanceView: This class displays the balance screen and shows the user's account balance.
+
+
+Functions:
+The app provides the following functions:
+
+User Authentication: The app requires the user to enter their login credentials to access their account.
+
+Withdrawal: The user can withdraw cash from their account by selecting the desired amount.
+
+Deposit: The user can deposit cash into their account by entering the deposit amount.
+
+Transfer Funds: The user can transfer funds to other accounts by entering the recipient's account details and the transfer amount.
+
+Account Balance: The user can view their account balance at any time.
+
+Data Flow:
+The data flow of the app is as follows:
+
+The user enters their login credentials in the LoginView.
+
+The LoginController receives the login information and communicates with the Model to authenticate the user.
+
+If the authentication is successful, the user is directed to the MainMenuView.
+
+The user selects the desired transaction type in the MainMenuView.
+
+The MainMenuController receives the user's input and communicates with the Model to execute the selected transaction.
+
+The Model performs the necessary operations (withdrawal, deposit, or transfer) and updates the account balance.
+
+The Model communicates the updated account balance to the relevant View.
+
+The View displays the updated account balance to the user.

@@ -1,0 +1,38 @@
+Introduction:
+The ATM console-based app is designed to provide a user-friendly interface for users to perform various banking transactions. The application is built using core Java .
+
+Project Objectives:
+The objectives of the ATM console-based app project are:
+
+To design and develop an application that provides a user-friendly interface for banking transactions.
+To implement security features to protect user information and prevent fraud.
+To store user account information and transaction logs in a secure and efficient manner.
+To provide an admin module for performing administrative tasks.
+
+Methodology:
+The following methodology was used to develop the ATM console-based app:
+
+Requirements Gathering - The project requirements were gathered through meetings with stakeholders and analysis of similar applications.
+System Design - The system architecture and design were created based on the project requirements.
+Implementation - The application was implemented using core Java 
+Testing - The application was tested for functionality, security, and performance.
+Deployment - The application was deployed on a test server for further testing before being released to production.
+
+System Architecture:
+The ATM console-based app is designed as a client-server application. The client runs on the ATM console to perform various operations like balance inquiry, cash withdrawal, etc. The server is responsible for managing user accounts, transaction logs, and other related operations.
+
+Technologies Used:
+The following technologies were used in the development of the ATM console-based app:
+
+Core Java - The application was built using core Java, which is a widely used programming language for developing enterprise-level applications.
+
+Key Features:
+The ATM console-based app has the following key features:
+
+Login Module - This module is responsible for authenticating the user by verifying the user's credentials with the database.
+Balance Inquiry Module - This module allows the user to view the current balance of their account.
+Cash Withdrawal Module - This module allows the user to withdraw cash from their account.
+Transaction Logging Module - This module is responsible for logging all the transactions performed by the user.
+Admin Module - This module is only accessible to the admin, who can perform various administrative tasks like adding new users, updating user account information, etc.
+Conclusion:
+The ATM console-based app project was successfully completed.The application meets the project objectives and provides a user-friendly interface for banking transactions. The application is built using core Java . Overall, the project demonstrates the ability to design and develop an enterprise-level application using core Java and related technologies.
